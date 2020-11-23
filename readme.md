@@ -14,3 +14,5 @@ Share beautiful code with me.
       
 ; little schemer, d friedman. p16
 ```
+
+Pins are current. Either books or work in progress.
