@@ -12,7 +12,7 @@ Share beautiful code with me.
       ((atom? (car l)) (lat? (cdrl)))
       (else #f))))
       
-; little schemer, d friedman. p16
+; d friedman, m felleisen
 ```
 
 Pins are current. Either books or work in progress.
