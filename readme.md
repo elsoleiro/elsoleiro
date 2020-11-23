@@ -7,5 +7,6 @@ Share beautiful code with me.
       ((null? l) #t)
       ((atom? (car l)) (lat? (cdrl)))
       (else #f))))
+      
+; little schemer, d friedman. p16
 ```
-- Little Schemer, P16
