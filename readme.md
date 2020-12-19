@@ -9,7 +9,7 @@ Share beautiful code with me.
   (lambda (l)
     (cond
       ((null? l) #t)
-      ((atom? (car l)) (lat? (cdrl)))
+      ((atom? (car l)) (lat? (cdr l)))
       (else #f))))
       
 ; d friedman, m felleisen
