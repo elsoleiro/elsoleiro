@@ -1,16 +1,1 @@
-Share beautiful code with me.
-
-```scheme 
-(define atom?
-  (lambda (x)
-    (and (not (pair? x)) (not (null? x)))))
-    
-(define lat?
-  (lambda (l)
-    (cond
-      ((null? l) #t)
-      ((atom? (car l)) (lat? (cdr l)))
-      (else #f))))
-      
-; d friedman, m felleisen
-```
+![Pi_2](https://i.ibb.co/BfYkW1z/2022-03-08-20-50.png)
